@@ -1,0 +1,74 @@
+    CHAPTER 1: Introduction to Programming
+-------------------------------------------------------
+Fill in the blanks
+1.  Computer Software
+2.  software
+3.  programming
+4.  Programming language
+5.  Driver Software
+6.  Operating System (OS)
+7.  System Software
+8.  System software
+9.  Cryptographic utilities
+10. a label, an operation code and one or more operands
+--------------------------------------------------------
+Multiple Choice Questions
+1.  b
+2.  d
+3.  c
+4.  d
+5.  a
+6.  d
+7.  b
+8.  c
+9.  b
+10. a
+--------------------------------------------------------
+State True or False
+1.  T
+2.  T
+3.  T
+4.  F Word processor is an example of productivity software
+5.  F Desktop publishing system is an application software
+6.  F
+7.  T
+8.  T
+9.  F label is used to identify and reference instructions in the program (Assembly Programming Language)
+10. T
+----------------------------------------------------------
+Review Questions
+1. Broadly classify the computer system into two parts. Also make a comparison between a human body and the computer system thereby
+   explaining what each part does.
+
+2. Differentiate between computer hardware and software.
+
+3. Define programming.
+
+4. Define source code.
+
+5. What is booting?
+
+6 What criteria is used to select the language in which the program will be written?
+
+7. Explain the role of operating system.
+
+8. Give some examples of computer software.
+
+9. Differentiate between the source code and the object code.
+
+do. Why are compilers and interpreters used?
+
+11. Is there any difference between a compiler and an interpreter?
+
+12. What is application software? Give examples
+
+13. What is BIOS?
+
+14. What do you understand by utility software? Is it a must to have it?
+
+15. Differentiate between syntax errors and logical errors.
+
+16. Can a program written in a high-level language be execute-without a linker?
+
+17. Give a brief description of generation of programming languages. Highlight the advantages and disadvantages of languages in each
+    generation.
